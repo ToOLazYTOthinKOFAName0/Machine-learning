@@ -1,0 +1,1 @@
+Designed a ML model which detects and identifies different types of human activity with the help of an ML model which was trained on Accelerometer and Gyro-meter sensor data.  It recognizes various types of activities (like eating, running, climbing stairs, reading a book , etc) and can be further developed for sophisticated use cases in smartwatches.
